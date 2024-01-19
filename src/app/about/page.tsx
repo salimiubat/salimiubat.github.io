@@ -31,9 +31,9 @@ export default function About() {
           <p>
             There are many variations of passages of Lorem Ipsum available but the
             majority is have suffered alteration in that some form by injected
-            humour or randomised that words which don't look even slightly
+            humour or randomised that words which do not look even slightly
             believable. If you are going a to use a passage of Lorem Ipsum you
-            need to be sure there isn't anything embarrassing. There are is many
+            need to be sure there is not anything embarrassing. There are is many
             variations of passages available.
           </p>
           <div className="row">

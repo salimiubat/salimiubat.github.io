@@ -61,7 +61,7 @@ export default function Navbar({ showContent = true }) {
             <Image src="assets/images/name.png" alt="" />
           </div>
           <div className="col-md-7 animated bounceInRight homexp">
-            <h5>Hello I'm</h5>
+            <h5>Hello I am</h5>
             <h2>Md. Solayman Hossen Selim</h2>
             <span>
               Professional <a>Full Stack Web Developer </a>
