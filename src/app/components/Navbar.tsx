@@ -14,7 +14,7 @@ export default function Navbar({ showContent = true }) {
           <div className="row">
             <div className="col-md-3 logo">
               {/* <img className="logo-wt" src="assets/images/logo.png" alt="" /> */}
-              <Image
+              <img
                 className="logo-gry"
                 src="assets/images/logo-gray.png"
                 alt=""
@@ -58,7 +58,7 @@ export default function Navbar({ showContent = true }) {
         {showContent && (
             <>
           <div className="col-md-5 animated bounceInLeft hom-img">
-            <Image src="assets/images/name.png" alt="" />
+            <img src="assets/images/name.png" alt="" />
           </div>
           <div className="col-md-7 animated bounceInRight homexp">
             <h5>Hello I am</h5>
