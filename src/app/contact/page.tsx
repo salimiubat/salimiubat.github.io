@@ -15,7 +15,7 @@ export default function ContactPage() {
         
         height={480}
         frameBorder={0}
-        allowFullScreen=""
+        // allowFullScreen=""
       />
     </div>
     <div className="col-sm-6 cop-ck">
