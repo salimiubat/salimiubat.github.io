@@ -9,7 +9,7 @@ export default function HeaderPage() {
       content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
  
-    <link rel="shortcut icon" sizes='16x16' href="assets/images/fav.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon" />
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap"
       rel="stylesheet"
