@@ -50,7 +50,6 @@ export default function About() {
                     <span>Study:</span>IUBAT University
                   </li>
                   <li>
-                    {/* <span>Website:</span>www.smarteyeapps.com */}
                   </li>
                 </ul>
               </div>
@@ -68,7 +67,7 @@ export default function About() {
                     <span>Mail:</span>salimkc7@gmail.com
                   </li>
                   <li>
-                    <span>Mobile:</span>+88 01518375925 ,+88 01832865017 
+                  <span>Mobile:</span>+88 01518375925 ,+88 01832865017
                   </li>
                 </ul>
               </div>
