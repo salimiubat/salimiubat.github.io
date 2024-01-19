@@ -1,6 +1,7 @@
 import React from 'react'
 import HeaderPage from './HeaderPage'
 import Link from 'next/link'
+import Image from 'next/image'
 export default function Navbar({ showContent = true }) {
   return (
     <>
@@ -13,7 +14,7 @@ export default function Navbar({ showContent = true }) {
           <div className="row">
             <div className="col-md-3 logo">
               {/* <img className="logo-wt" src="assets/images/logo.png" alt="" /> */}
-              <img
+              <Image
                 className="logo-gry"
                 src="assets/images/logo-gray.png"
                 alt=""
@@ -57,7 +58,7 @@ export default function Navbar({ showContent = true }) {
         {showContent && (
             <>
           <div className="col-md-5 animated bounceInLeft hom-img">
-            <img src="assets/images/name.png" alt="" />
+            <Image src="assets/images/name.png" alt="" />
           </div>
           <div className="col-md-7 animated bounceInRight homexp">
             <h5>Hello I'm</h5>

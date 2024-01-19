@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image';
 
 import HeaderPage from '../components/HeaderPage'
 import Navbar from '../components/Navbar'
@@ -19,7 +20,7 @@ export default function About() {
       </div>
       <div className="about-row row">
         <div className="image-col col-md-4">
-          <img src="assets/images/about.png" alt="" />
+        <Image src="/assets/images/about.png" alt=""  />
           <button className="btn btn-primary">
             <i className="fas fa-download" /> Download CV
           </button>
