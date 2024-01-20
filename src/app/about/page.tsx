@@ -5,6 +5,8 @@ import HeaderPage from '../components/HeaderPage'
 import Navbar from '../components/Navbar'
 
 export default function About() {
+
+  
   return (
     <>
     <Navbar showContent={false} />
@@ -12,15 +14,15 @@ export default function About() {
     <div className="container">
       <div className="session-title row">
         <h2>About Me</h2>
-        <p>
-          There are many variations of passages of Lorem Ipsum available Lorem
-          Ipsum available but the majority
+        <p style={{textAlign:'justify'}}>
+        I am Md. Solayman Hossen Selim,
+        I am a passionate Full-Stack Developer with a proven track record of creating and implementing innovative web solutions. My expertise spans the entire software development life cycle, from front-end to back-end development. With a strong foundation in both client and server-side technologies, I am dedicated to delivering high-quality, scalable, and user-friendly applications
         </p>
         <div className="heading-line" />
       </div>
       <div className="about-row row">
         <div className="image-col col-md-4">
-        <Image src="/assets/images/about.png" alt=""  />
+        <img src="/assets/images/about.png" alt=""  />
           <button className="btn btn-primary">
             <i className="fas fa-download" /> Download CV
           </button>
@@ -29,12 +31,9 @@ export default function About() {
           <h2>Md. Solayman Hossen Selim</h2>
           <h6>Full Stack Web Developer</h6>
           <p>
-            There are many variations of passages of Lorem Ipsum available but the
-            majority is have suffered alteration in that some form by injected
-            humour or randomised that words which do not look even slightly
-            believable. If you are going a to use a passage of Lorem Ipsum you
-            need to be sure there is not anything embarrassing. There are is many
-            variations of passages available.
+In my role as a Software Engineer at Meeting Me, I am currently engaged.
+ Prior to this, I gained valuable experience as a Junior Software Engineer at Aussie Bangla and iSense Technolab.
+
           </p>
           <div className="row">
             <div className="col-md-6 col-12">

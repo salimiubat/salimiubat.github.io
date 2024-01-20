@@ -12,7 +12,7 @@ export default function Skill() {
     <div className="col-md-6 skii-div tech-skill">
       <div className="title">
         <h2>Technical Skill</h2>
-        <p>There are many variations available but the majority</p>
+        <p>Professional Skills</p>
       </div>
       <ul>
         <li>

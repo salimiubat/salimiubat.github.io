@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HeaderPage() {
   return (
-    <>
+   <div>
     <meta charSet="utf-8" />
     <meta
       name="viewport"
@@ -27,7 +27,7 @@ export default function HeaderPage() {
       href="assets/plugins/slider/css/owl.theme.default.css"
     />
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-  </>
+</div>
   
   )
 }
