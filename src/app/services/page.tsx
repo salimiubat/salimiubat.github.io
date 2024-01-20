@@ -11,7 +11,7 @@ export default function page() {
                     <div className="session-title row">
                         <h2>Servcies I Provide</h2>
                         <p style={{textAlign:"justify"}}>
-                        As a Full-Stack Developer, I offer a comprehensive range of services aimed at delivering high-quality web solutions. My expertise covers both front-end and back-end development, allowing me to create robust and scalable applications. Here's a detailed breakdown of the services I provide:
+                        As a Full-Stack Developer, I offer a comprehensive range of services aimed at delivering high-quality web solutions. My expertise covers both front-end and back-end development, allowing me to create robust and scalable applications. Here is a detailed breakdown of the services I provide:
                         </p>
                         <div className="heading-line" />
                     </div>
